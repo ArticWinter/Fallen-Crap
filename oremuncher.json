@@ -1,0 +1,21 @@
+{
+  "Key": "oremuncher_lore",
+  "Name": "Ore Muncher Lore",
+  "Description": "placeholder",
+  "Quest": true,
+  "Author": "ArticWinter",
+  "AllowRejoining": true,
+  "Icon": {
+    "material": "Shulker Shell"
+  },
+
+  "CreateEntity": {
+    "key": "cormac",
+    "skin": {
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMzI1MDMwODI3NiwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1ZTU4NWZiM2IyMmFlYjIzYTk0YjU5NzBlN2U1OTM4NTc1NzEwYmQ2YjBlZmE0NjQ1ZDczZTRjY2Q4NzBjNzIiCiAgICB9CiAgfQp9",
+      "signature": "RpChlZKXhT6dE9KbZtDB/7koZClYe49Dwr1uriTe62ulbjlLC7ag02zU7lrdx6l3gRQyWBi6WS6A7s9FfD/GVUoyXHD86g8dHYIoiNp04l2MsFPipeYuHdvTuweCulJ+GXgpDkHO1jLredAlqjUi/PYI3eijKSl45GjW+51s65fJNEEPYmL2KaW3T5B1uORC2utqt+vV956bfqW3C9O1iW4Wbbj8ZbyiB7tTyO1DQcEv+YjdV0ZGPSiCKVixKWh3JedyWmh7iuObS5wexB52MlsDKYP5wVYNSu79wvpxDRkLDEZqO0ZvPDtxmkwE7LXxYsLEOsljoEe0lEQXdlE7B0yKBnTZ+IqVotQJ6WuV9/f+Zj/qjQbvqNhyB2ZBQdg3FB5xEDpTSuYYYn3IL94Wdq7OuT3zQoLM/yxwo0swb7Qn0BOjINfS7UFdtglUq2Oajh58p0m7v7RkgOAo0Wki51/YGlN8DiY6d6YWTZt1AMZ5cnT/ziSTzz3N45JRVx6fXFZcLX1NrTUU4OaEsGLtCqtc53XIdX1W/Kd2Yja+0rAFxQFLvvfeaHBoDjcfosOxso4MA6CFxfUDQNPQxy6c98VRyNokPk9DBrO/h8o8e7h2rHRECnIztVkOOez07bYUuM7qR8Gn72Vc+ivf7GTrl2Mph5Mzf1kR390qbZnM+TA="
+    },
+    "location": [ 2054.5, 22, 594.5, 90 ],
+    "name": "&d&lCormac"
+  },
+}
