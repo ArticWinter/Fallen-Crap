@@ -22,6 +22,17 @@
 	"Dialog":[{
 		"&d&lCormac": "Oh hello, are you the one sent by Willie B?"
 		"[PLAYER]": "Yes, I'm [PLAYER]. Who are you?"
-		"&d&lCormac": "My name is Cormac, but around here I'm known as "
+		"&d&lCormac": "My name is Cormac, otherwise known around here as the mad scientist"
+		"[PLAYER]": "Mad scientist? Why's that?"
+		"&d&lCormac": "I'm afraid thats classified information, but that's beside the point."
+		"&d&lCormac": "I assume Willie B explained why I need you?"
+		"[PLAYER]": "Very breifly."
+		"&d&lCormac": "To recap, I've noticed that a strange variant of Shulkers have broken out in the mines, and it is my job to find out why."
+		"[PLAYER]": "A strange variant.. do you mean Ore Munchers?"
+		"&d&lCormac": "Yes! Those pesky things"
+		"&d&lCormac": "From talking to Willie B, I know that you are quite skilled when it comes to exploring"
+		"[PLAYER]": "I suppose so, what do you need?"
+		"&d&lCormac": ""
+
 		}]
 }
