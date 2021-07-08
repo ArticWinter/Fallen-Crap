@@ -17,5 +17,11 @@
 		},
 		"location": [2054.5, 22, 594.5, 90],
 		"name": "&d&lCormac"
-	}
+	},
+	"HighlightClickEntity": "cormac",
+	"Dialog":[{
+		"&d&lCormac": "Oh hello, are you the one sent by Willie B?"
+		"[PLAYER]": "Yes, I'm [PLAYER]. Who are you?"
+		"&d&lCormac": "My name is Cormac, but around here I'm known as "
+		}]
 }
